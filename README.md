@@ -1,6 +1,3 @@
-Projet realise par:
-- CAO Song Toan - 3702980
-- Addad Youva - 3872388
 
 1. Changer les types
 - Definir un nouveau type "player" ayant 2 champs: pos:int*int & life:bool qui indique la position actuelle du joueur et sa vie. Si le joueur est mort, life = false
